@@ -1,4 +1,4 @@
-# Documentação da API FastAPI para Resumo de Partidas e Perfis de Jogadores
+# Documentação da API FastAPI para resumo de partidas e perfis de jogadores
 
 ## Descrição
 Este projeto implementa uma API usando o framework **FastAPI** que permite:
